@@ -1,17 +1,3 @@
---create the database
-
-DROP DATABASE IF EXISTS hu_social;
-
-CREATE DATABASE hu_social;
-
-
-
---select the database
-
-USE hu_social;
-
-
-
 --create tables
 
 CREATE TABLE users
